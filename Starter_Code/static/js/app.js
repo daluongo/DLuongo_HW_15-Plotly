@@ -14,8 +14,6 @@ function buildMetadata(sample) {
             
             console.log(key, value);
         });
-    // Calling Gauge Chart function
-        buildGauge(results.wfreq);
     });
 }
 
